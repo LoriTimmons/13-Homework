@@ -1,5 +1,4 @@
 const router = require('express').Router();
-const { FOREIGNKEYS } = require('sequelize/types/lib/query-types');
 const { Tag, Product, ProductTag, Category } = require('../../models');
 
 // The `/api/tags` endpoint
