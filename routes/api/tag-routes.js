@@ -85,6 +85,3 @@ router.delete("/:id", (req, res) => {
   });
 
 module.exports = router;
-
-
-// Tag put route not working

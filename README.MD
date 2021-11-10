@@ -16,4 +16,4 @@ Use this application to manage the backend e-commerce. You can pull, add and rem
   #### Contact Me @: lorietimmons@gmail.com<br>
   #### GitHub Profile: LoriTimmons
   #### GitHub Repo Link: https://github.com/LoriTimmons/13-Homework
-  #### Walkthrough Video: https://watch.screencastify.com/v/LvUjicwfJGtW70pwakUx
+  #### Walkthrough Video: https://watch.screencastify.com/v/7TeemhCk4ZZFsxAHsnC9
