@@ -1,11 +1,6 @@
 const router = require('express').Router();
 const { Category, Product } = require('../../models');
 const { update } = require('../../models/Product');
-// start all get all, get one (id)
-// update one 
-// create category 
-// delete a category 
-
 
 
 // The `/api/categories` endpoint
